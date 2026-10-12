@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "agreement-orbis",
+    "public": ".firebase/agreement-orbis/hosting",
+    "ignore": [
+      "firebase.static.json",
+      "**/.*"
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
+  }
+}
